@@ -166,7 +166,7 @@ Tested on **500+ simulated log entries** (mix of normal + injected anomalies):
 
 ## 👨‍💻 Author
 
-**Raksh** — ECE Graduate | Python · ML · Data Analysis  
+**Rakshitha B K** — ECE Graduate | Python · ML · Data Analysis  
 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
 
 ---
